@@ -80,8 +80,8 @@ body {
 }
 
 .message-box-1, .message-box-2 {
-  width: 500px;
-  height: 1000px;
+  width: 250px;
+  height: 500px;
   background-color: white;
   box-shadow: 0 0 25px 10px rgba(0, 0, 0, 0.08);
   margin-top: 150px;
